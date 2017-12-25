@@ -1,0 +1,8 @@
+Motor	KEYWORD1
+
+setMode	KEYWORD2
+setInvertMode	KEYWORD2
+inverseDirection	KEYWORD2
+forward	KEYWORD2
+backward	KEYWORD2
+stop	KEYWORD2
